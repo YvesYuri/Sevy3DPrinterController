@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005119992926",
+    "project_id": "sevy3dprintercontroller",
+    "storage_bucket": "sevy3dprintercontroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005119992926:android:526abd09bd899c357970cf",
+        "android_client_info": {
+          "package_name": "com.sevy.sevy_3d_printer_controller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxYwJvL-HHoyh_sZSBqEZ0of9pnrEg-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
